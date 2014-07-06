@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Berdget",
+    "thumb": "Berdget/thumb.png",
+    "desc": "Ermahgerd! Berdget is a web app that can help you budget your monthly spending. Just enter some data and Berdget does the math!",
+    "url": "http://www.berdget.com",
+    "info": "http://twitter.com/berdgetapp",
+    "submitter": "leifthomas",
+    "submissionDate": "2014-07-06",
+    "tags": [
+      "Production",
+      "Productivity", "Financial",
+      "Animations", "Local Storage", "D3", "Bootstrap", "Angular UI",
+      "No jQuery"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
